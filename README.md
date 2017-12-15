@@ -1,7 +1,7 @@
 # Kaggle Challenge - [Titanic](https://www.kaggle.com/c/titanic)
-### Predicting survival on Titanic
+Predicting survival on Titanic
 
-## Best Score `0.77990`
+Best Score `0.77990`
 
 ## Models Used
 - Random Forest
